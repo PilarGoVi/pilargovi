@@ -1,4 +1,4 @@
-Hi 👋 My name is Pilar Gomis
+Hi 👋 I'm Pilar
 ============================
 
 Web Developer and next Big Data Analyst
