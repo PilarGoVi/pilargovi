@@ -8,7 +8,7 @@ I have studied Web Development Applications, but what I'm really passionate abou
 
 *   🌍  I live in Spain
 *   ✉️  You can contact me at [pilargomis78@gmail.com](mailto:pilargomis78@gmail.com)
-*   🚀  I'm currently working on [Tarea 1. Programación en Inteligencia Artificial](http://README.md)
+*   🚀  I'm currently working on [Tarea 1. Programación en Inteligencia Artificial](Tarea_UT01_Apartado_1.py)
 *   🧠  I'm learning Big Data and Artificial Intelligence
 *   ⚡  I'm a volunteer in a non-profit association. https://afasw.com/
 <p align="left">
